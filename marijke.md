@@ -1,6 +1,6 @@
 ---
 layout: page
-# title: Marijke
+title: Wie ben ik?
 permalink: /over/
 ---
 
