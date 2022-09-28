@@ -32,17 +32,17 @@ key: marijke
 
 <table>
   <tr>
-    <td>Relaxerende rugmassage</td>
+    <td>Relaxerende rugmassage *</td>
     <td class="align-left">30m</td>
     <td class="align-right">45€</td>
   </tr>
   <tr>
-    <td>Anti-stress Nek-Schouders-Hoofd</td>
+    <td>Anti-stress Nek-Schouders-Hoofd *</td>
     <td class="align-left">30min</td>
     <td class="align-right">45€</td>
   </tr>
   <tr>
-    <td>Progresssieve relaxatie en ademhaling</td>
+    <td>Progresssieve relaxatie en ademhaling *</td>
     <td class="align-left">30min</td>
     <td class="align-right">45€</td>
   </tr>
@@ -59,7 +59,7 @@ key: marijke
 </table>
 
 <p class="note">
-  Op voorschrift 'relaxathietherapie' van je arts heeft u recht
+  * Op voorschrift 'relaxathietherapie' van je arts heeft u recht
   op 18 kiné-behandelingen. Een gedeeltelijke terugbetaling vai het ziekenfonds
   is dan mogelijk!
 </p>

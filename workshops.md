@@ -68,7 +68,7 @@ Theoretische benadering en fysieke oefeningen worden met elkaar afgewisseld.
   </tr>
 </table>
 
-#### Relaxatie, Visuaslisatie en Zintuigelijke waarneming
+#### Relaxatie, Visualisatie en Zintuigelijke waarneming
 
 <a name="relaxatie"></a>
 
@@ -79,7 +79,7 @@ te komen.
 Visualisatie wordt aangeleerd aan de hand van een uitgewerkte sessie,
 maar ook de tools om dit zelf verder uit te werken worden aangelereerd.
 
-De vaardigheid van zintuigeljike waarneming wordt ingeoefend.
+De vaardigheid van zintuigelijke waarneming wordt ingeoefend.
 
 <table class="prijsinfo">
   <tr>
