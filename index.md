@@ -79,7 +79,7 @@ key: marijke
 <h1>Workshops</h1>
 
 <p>
-  Er is ook een aanbod <a href="/workshops/">workshops</a> <a href="/workshops/">'omgaan met stress'</a> waar we eerst stress beter
+  Er is ook een aanbod <a href="{% link workshops.md %}">workshops</a> <a href="{% link workshops.md %}">'omgaan met stress'</a> waar we eerst stress beter
   leren begrijpen en vervolgens massage, ademhaling en stretching,
   relaxatie en zintuigelijk waarneming, zowel theoretisch als praktisch aanpakken.
 </p>
