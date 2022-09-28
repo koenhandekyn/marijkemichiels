@@ -27,7 +27,6 @@ key: bon
 
   <p>Heb je weinig tijd? Dan bestel je vlot hieronder je cadeaubon volledig online.</p>
 
-
   <div class="gift-up-target" data-site-id="89432a38-063f-4363-9256-08daa082b92b" data-platform="Other" ></div>
   <script type="text/javascript">
   (function (g, i, f, t, u, p, s) {

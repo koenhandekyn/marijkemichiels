@@ -21,7 +21,11 @@ permalink: /workshops/
   <p>
     Het stress-release traject bestaat uit 1 <a href="#basis">basis</a> opleiding en 4 praktijkgerichte <a href="#workshops">workshops</a>.
   </p>
+  <p>
+    Dit traject is ontwikkeld door <a href="https://wellbeingdesign.be/">wellbeingdesign.be</a>
+  </p>
 </header>
+
 
 ## Stress begrijpen
 <a name="basis"></a>
@@ -73,7 +77,7 @@ Theoretische benadering en fysieke oefeningen worden met elkaar afgewisseld.
 <a name="relaxatie"></a>
 
 De relaxatie wordt vooral ingeoefend met de technieken volgens
-Jacobsen. Men leert om een bodyscan uit te voeren om tot totale relaxatie
+Jacobson. Men leert om een bodyscan uit te voeren om tot totale relaxatie
 te komen.
 
 Visualisatie wordt aangeleerd aan de hand van een uitgewerkte sessie,

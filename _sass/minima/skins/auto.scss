@@ -11,16 +11,18 @@ $color-scheme-dark: false !default;
 // ----------
 
 // $lm-brand-color:           darken(#5EA9BE, 10%) !default;
-$lm-brand-color:           lighten(#9A3843, 0%) !default;
+// $lm-brand-color:           lighten(#9A3843, 0%) !default; // bordeaux
+$lm-brand-color:           lighten(#3cb4c2, 0%) !default; // greenblue
 $lm-brand-color-light:     lighten($lm-brand-color, 40%) !default;
 $lm-brand-color-dark:      darken($lm-brand-color, 10%) !default;
 
 $lm-site-title-color:      $lm-brand-color-dark !default;
 
-$lm-text-color:             $lm-brand-color-dark !default;
-$lm-text-color-invert:      lighten($lm-brand-color, 55%) !default;
+// $lm-text-color:             $lm-brand-color-dark !default; // bordeaux
+$lm-text-color:             darken(#d9c375, 25%) !default;
+$lm-text-color-invert:      lighten($lm-text-color, 35%) !default;
 $lm-background-color-dark:  $lm-brand-color-dark;
-$lm-background-color-light: lighten($lm-brand-color-light, 20%) !default;
+$lm-background-color-light: lighten($lm-brand-color-light, 10%) !default;
 $lm-background-color:       $lm-background-color-light;
 $lm-code-background-color:  #eeeeff !default;
 
