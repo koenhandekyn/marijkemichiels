@@ -71,7 +71,7 @@ key: marijke
    of neem contact op via <a class="whatsapp" href="https://wa.me/{{ site.footer.whatsapp }}">WhatsApp</a>.
 </p>
 
-<p>Heb je weinig tijd? Dan bestel je vlot je cadeaubon volledig <a href="/bon">online</a>.</p>
+<p>Heb je weinig tijd? Dan bestel je vlot je cadeaubon volledig <a href="bon">online</a>.</p>
 
 </section>
 
@@ -79,34 +79,34 @@ key: marijke
 <h1>Workshops</h1>
 
 <p>
-  Er is ook een aanbod <a href="{% link workshops.md %}">workshops</a> <a href="{% link workshops.md %}">'omgaan met stress'</a> waar we eerst stress beter
+  Er is ook een aanbod <a href="workshops">workshops</a> <a href="workshops">'omgaan met stress'</a> waar we eerst stress beter
   leren begrijpen en vervolgens massage, ademhaling en stretching,
   relaxatie en zintuigelijk waarneming, zowel theoretisch als praktisch aanpakken.
 </p>
 
-<p>Het stress-release traject bestaat uit 1 <a href="/workshops#basis">basis opleiding</a>
-   en 4 praktijkgerichte <a href="/workshops#workshops">workshops</a>.
+<p>Het stress-release traject bestaat uit 1 <a href="workshops#basis">basis opleiding</a>
+   en 4 praktijkgerichte <a href="workshops#workshops">workshops</a>.
    Deze gaan door in kleine groepjes van maximaal 4 personen.
  </p>
 
 <table>
   <tr>
-    <td><a href="/begrijpen#basis">Stress begrijpen (basis opleiding)</a></td>
+    <td><a href="begrijpen#basis">Stress begrijpen (basis opleiding)</a></td>
     <td class="align-left">2.5u</td>
     <td class="align-right">75€/persoon</td>
   </tr>
   <tr>
-    <td><a href="/workshops#massage">Massagetechnieken Nek, Schouders Hoofd</a></td>
+    <td><a href="workshops#massage">Massagetechnieken Nek, Schouders Hoofd</a></td>
     <td class="align-left">6u</td>
     <td class="align-right">245€/persoon</td>
   </tr>
   <tr>
-    <td><a href="/workshops#ademhaling">Ademhaling, Hartcoherentie en Stretching</a></td>
+    <td><a href="workshops#ademhaling">Ademhaling, Hartcoherentie en Stretching</a></td>
     <td class="align-left">3u</td>
     <td class="align-right">125€/persoon</td>
   </tr>
   <tr>
-    <td><a href="/workshops#relaxatie">Relaxatie, Visuaslisatie en Zintuigelijke waarneming</a></td>
+    <td><a href="workshops#relaxatie">Relaxatie, Visuaslisatie en Zintuigelijke waarneming</a></td>
     <td class="align-left">3u</td>
     <td class="align-right">125€/persoon</td>
   </tr>
