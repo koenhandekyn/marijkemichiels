@@ -72,7 +72,7 @@ Theoretische benadering en fysieke oefeningen worden met elkaar afgewisseld.
 
 <a name="relaxatie"></a>
 
-De relaxatie worddt vooral ingeoefend met de technieken volgens
+De relaxatie wordt vooral ingeoefend met de technieken volgens
 Jacobsen. Men leert om een bodyscan uit te voeren om tot totale relaxatie
 te komen.
 
