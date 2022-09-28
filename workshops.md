@@ -14,15 +14,16 @@ permalink: /workshops/
   <h1 class="post-title">{{ page.title | escape }}</h1>
 
   <p>
-    Omgaan met stress is een traject, ontwikkeld door WellBeingDesign, met als doel stress te begrijpen.
-    Aan de hand van praktische oefneing en technieken leer je een persoonlijk plan en vaardigheden te
-    ontwikkelen. Dit traject kadert in het streven naar positieve, preventieve gezondheid in het algemeen.
+    Omgaan met stress is een traject met als doel stress te begrijpen.
+    Aan de hand van praktische oefeningen en technieken leer je vaardigheden te
+    ontwikkelen, om te werken aan je mentale gezondheid.
+  </p>
+  <p>
     Het stress-release traject bestaat uit 1 <a href="#basis">basis</a> opleiding en 4 praktijkgerichte <a href="#workshops">workshops</a>.
-    Deze gaan door in kleine groepjes van maximaal 4 personen.
   </p>
 </header>
 
-## Stress begrijpen (basis opleiding)
+## Stress begrijpen
 <a name="basis"></a>
 {%- include stress_begrijpen.html -%}
 
