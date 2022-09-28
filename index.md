@@ -84,6 +84,7 @@ key: marijke
   relaxatie en zintuigelijk waarneming, zowel theoretisch als praktisch aanpakken.
 </p>
 
+<!--
 <p>Het stress-release traject bestaat uit 1 <a href="workshops#basis">basis opleiding</a>
    en 4 praktijkgerichte <a href="workshops#workshops">workshops</a>.
    Deze gaan door in kleine groepjes van maximaal 4 personen.
@@ -111,6 +112,6 @@ key: marijke
     <td class="align-right">125€/persoon</td>
   </tr>
 </table>
-
+ -->
 </section>
 

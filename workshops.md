@@ -90,6 +90,5 @@ De vaardigheid van zintuigeljike waarneming wordt ingeoefend.
 
 ## Totaal pakket
 
-Prijs voor het totaal pakket - inclusief de basis opleiding "Stress Begrijpen" - bedraagt 495€/persoon.
+Prijs voor het totaal pakket - inclusief de basis opleiding "Stress Begrijpen" (gratis) - bedraagt 495€/persoon.
 
-TODO: ONLINE AANKOOP
