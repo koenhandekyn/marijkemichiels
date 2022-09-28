@@ -91,7 +91,7 @@ key: marijke
 
 <table>
   <tr>
-    <td><a href="begrijpen#basis">Stress begrijpen (basis opleiding)</a></td>
+    <td><a href="workshops#basis">Stress begrijpen (basis opleiding)</a></td>
     <td class="align-left">2.5u</td>
     <td class="align-right">75€/persoon</td>
   </tr>
