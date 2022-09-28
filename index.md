@@ -32,11 +32,6 @@ key: marijke
 
 <table>
   <tr>
-    <td>Relaxerende lichaamsmassage</td>
-    <td class="align-left">1u</td>
-    <td class="align-right">75€</td>
-  </tr>
-  <tr>
     <td>Relaxerende rugmassage</td>
     <td class="align-left">30m</td>
     <td class="align-right">45€</td>
@@ -50,6 +45,16 @@ key: marijke
     <td>Progresssieve relaxatie en ademhaling</td>
     <td class="align-left">30min</td>
     <td class="align-right">45€</td>
+  </tr>
+  <tr>
+    <td>Relaxerende lichaamsmassage</td>
+    <td class="align-left">1u</td>
+    <td class="align-right">75€</td>
+  </tr>
+  <tr>
+    <td>Relaxerende Lichaamsmassage Hotstone</td>
+    <td class="align-left">1u</td>
+    <td class="align-right">90€</td>
   </tr>
 </table>
 
