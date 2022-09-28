@@ -32,8 +32,11 @@ table tr td.align-right {
   text-align: right;
 }
 
-section.intro img {
-  padding-bottom:  1em;
+p.note {
+  font-style: italic;
+  padding-left: 2em;
+  // margin-right: 0em;
+  border-left: 4px solid $lm-background-color-dark;
 }
 
 @media screen and (min-width: $on-large) {
@@ -53,7 +56,7 @@ section.intro, header.post-header {
   color: $lm-text-color-invert;
   padding: 3em;
   h1 {
-    color: lighten($lm-text-color-invert, 10%);
+    color: lighten($lm-text-color-invert, 5%);
     padding-bottom: 1em;
   }
   a {
@@ -63,7 +66,7 @@ section.intro, header.post-header {
       color: $lm-text-color-invert;
     }
     &:hover {
-      color: lighten($lm-text-color-invert, 10%);
+      color: lighten($lm-text-color-invert, 5%);
       text-decoration: underline;
     }
   }

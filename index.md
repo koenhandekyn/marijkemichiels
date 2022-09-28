@@ -9,16 +9,6 @@ layout: page
 key: marijke
 ---
 
-<style>
-  section.behandelingen p.note {
-    font-style: italic;
-    padding-left: 2em;
-    margin-right: 2em;
-    border-left: 4px solid grey;
-  }
-
-</style>
-
 <section class="intro">
 
   <!-- <img class="" src="/assets/images/massage.jpg"> -->
@@ -81,7 +71,7 @@ key: marijke
    of neem contact op via <a class="whatsapp" href="https://wa.me/{{ site.footer.whatsapp }}">WhatsApp</a>.
 </p>
 
-<p>ONLINE optie https://www.giftup.com/</p>
+<p>Heb je weinig tijd? Dan bestel je vlot je cadeaubon volledig <a href="/bon">online</a>.</p>
 
 </section>
 
