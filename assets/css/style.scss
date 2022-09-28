@@ -1,0 +1,70 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+:root {
+  --lace: #FDF8E2;
+  --silk: #FFDDD3;
+  --melon: #F3BFB3;
+  --crystal: #5EA9BE;
+}
+
+@import
+  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+  "minima/initialize";
+
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:opsz,wght@6..96,400;6..96,700&family=Catamaran:wght@100;400;700&display=swap');
+
+body {
+  font-family: 'Catamaran', sans-serif;
+  // font-family: 'Bodoni Moda', serif;
+  // background-color: var(--lace);
+}
+
+h1, h2, h3, h4, h5 {
+  // font-family: 'Catamaran', sans-serif;
+  font-family: 'Bodoni Moda', serif;
+  font-weight: bold;
+  // color: var(--crystal)
+}
+
+table tr td.align-right {
+  text-align: right;
+}
+
+section.intro img {
+  padding-bottom:  1em;
+}
+
+@media screen and (min-width: $on-large) {
+  section.intro img {
+    float: left;
+    max-width: 45%;
+    padding-bottom:  1em;
+    padding-right: 1em;
+  }
+  section {
+    clear: both;
+  }
+}
+
+section.intro {
+  background-color: $lm-background-color-dark;
+  color: $lm-text-color-invert;
+  padding: 3em;
+  h1 {
+    color: lighten($lm-text-color-invert, 10%);
+    padding-bottom: 1em;
+  }
+  a {
+    color: $lm-text-color-invert;
+    text-decoration: none;
+    &:visited {
+      color: $lm-text-color-invert;
+    }
+    &:hover {
+      color: lighten($lm-text-color-invert, 10%);
+      text-decoration: underline;
+    }
+  }
+}
