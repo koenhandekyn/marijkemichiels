@@ -2,13 +2,6 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-:root {
-  --lace: #FDF8E2;
-  --silk: #FFDDD3;
-  --melon: #F3BFB3;
-  --crystal: #5EA9BE;
-}
-
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
@@ -17,15 +10,11 @@
 
 body {
   font-family: 'Catamaran', sans-serif;
-  // font-family: 'Bodoni Moda', serif;
-  // background-color: var(--lace);
 }
 
 h1, h2, h3, h4, h5 {
-  // font-family: 'Catamaran', sans-serif;
   font-family: 'Bodoni Moda', serif;
   font-weight: bold;
-  // color: var(--crystal)
 }
 
 table tr td.align-right {
@@ -35,7 +24,6 @@ table tr td.align-right {
 p.note {
   font-style: italic;
   padding-left: 2em;
-  // margin-right: 0em;
   border-left: 4px solid $lm-background-color-dark;
 }
 
