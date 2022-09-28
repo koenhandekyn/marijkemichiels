@@ -18,7 +18,7 @@ key: marijke
   <p>
     Ik ben kinesitherapeut met een voorliefde voor relaxerende behandelingen.
     Je kan bij mij terecht voor behandelingen als ondersteuning bij
-    algemene vermoeidhied, spierspanningen, hoofd- en aangezichtspoijnen,
+    algemene vermoeidhied, spierspanningen, hoofd- en aangezichtspijnen,
     hyperventilatie of burn-out.</p>
 
   <p>
