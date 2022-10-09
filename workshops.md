@@ -77,7 +77,7 @@ Theoretische benadering en fysieke oefeningen worden met elkaar afgewisseld.
 <a name="relaxatie"></a>
 
 De relaxatie wordt vooral ingeoefend met de technieken volgens
-Jacobson. Men leert om een bodyscan uit te voeren om tot totale relaxatie
+Jacobson. Je leert om een bodyscan uit te voeren om tot totale relaxatie
 te komen.
 
 Visualisatie wordt aangeleerd aan de hand van een uitgewerkte sessie,

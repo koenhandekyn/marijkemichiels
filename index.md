@@ -11,12 +11,10 @@ key: marijke
 
 <section class="intro">
 
-  <!-- <img class="" src="/assets/images/massage.jpg"> -->
-
-  <h1>Hallo, ik ben Marijke Michiels</h1>
+  <h1>Relaxatietherapie Marijke Michiels</h1>
 
   <p>
-    Ik ben kinesitherapeut met een voorliefde voor relaxerende behandelingen.
+    Relaxatietherapie Marijke Michiels met een voorliefde voor relaxerende behandelingen.
     Je kan bij mij terecht voor behandelingen als ondersteuning bij
     algemene vermoeidhied, spierspanningen, hoofd- en aangezichtspijnen,
     hyperventilatie of burn-out.</p>
@@ -33,7 +31,7 @@ key: marijke
 <table>
   <tr>
     <td>Relaxerende rugmassage *</td>
-    <td class="align-left">30m</td>
+    <td class="align-left">30min</td>
     <td class="align-right">45€</td>
   </tr>
   <tr>
@@ -69,7 +67,7 @@ key: marijke
 <h1>Cadeaubon</h1>
 
 <p>Een prachtig en deugddoend geschenk voor ieder van ons.
-   Even buiten bereik zijn … om tijd te maken voor jezelf, om uit te blazen.</p>
+   Even buiten bereik zijn … om tijd te maken voor jezelf.</p>
 
 <p>Een cadeaubon kost 45€, 75€ of 90€ en kan afgehaald worden in mijn praktijk.
    Bel me gerust op <a href="tel:+32 468 45 67 21">0468 45 67 21</a>
