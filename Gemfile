@@ -15,3 +15,5 @@ group :jekyll_plugins do
 end
 
 gem "webrick"
+
+gem "foreman", "~> 0.87.2"
