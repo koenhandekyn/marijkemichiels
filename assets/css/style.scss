@@ -50,6 +50,16 @@ p.note {
   }
 }
 
+@media screen and (max-width: $on-palm) {
+  h1, h2, h3, h4, h5 {
+    font-family: serif;
+    font-weight: lighter;
+  }
+  h1 {
+    font-size: 2.5em !important;
+  }
+}
+
 section.intro, header.post-header {
   background-color: $lm-background-color-dark;
   color: $lm-text-color-invert;
