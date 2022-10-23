@@ -13,11 +13,9 @@ key: marijke
 
   <h1>Relaxatietherapie Marijke Michiels</h1>
 
-  <p>
-    Relaxatietherapie Marijke Michiels met een voorliefde voor relaxerende behandelingen.
-    Je kan bij mij terecht voor behandelingen als ondersteuning bij
-    algemene vermoeidhied, spierspanningen, hoofd- en aangezichtspijnen,
-    hyperventilatie of burn-out.</p>
+  <p>Je kan bij mij terecht voor behandelingen als ondersteuning bij
+     algemene vermoeidhied, spierspanningen, hoofd- en aangezichtspijnen,
+     hyperventilatie of burn-out.</p>
 
   <p>
     Ik organiseer ook <a href="/workshops/">workshops</a> <a href="/workshops/">'omgaan met stress'</a>.
@@ -58,7 +56,7 @@ key: marijke
 
 <p class="note">
   * Op voorschrift 'relaxathietherapie' van je arts heeft u recht
-  op 18 kiné-behandelingen. Een gedeeltelijke terugbetaling vai het ziekenfonds
+  op 18 kiné-behandelingen. Een gedeeltelijke terugbetaling via het ziekenfonds
   is dan mogelijk!
 </p>
 </section>

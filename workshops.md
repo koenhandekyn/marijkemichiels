@@ -35,15 +35,15 @@ permalink: /workshops/
 
 <a name="workshops"></a>
 
-De workshops gaan door op maandag en/of donderdagavond vanaf 18u30, steeds
-met maximaal 4 personen. Er wordt geadviseerd dat steeds de basis opleiding
-eerst gevolgd wordt.
+De workshops gaan door op maandag- en/of donderdagavond vanaf 18u30, steeds
+met maximaal 4 personen. We adviseren om de basis opleiding "Stress Begrijpen"
+te volgen voor je de workshops start.
 
 #### Massagetechnieken Nek, Schouders Hoofd
 
 <a name="massage"></a>
 
-We leren je een aantal technieken aan om relaxerende massage toe te passen
+Leer een aantal technieken aan om relaxerende massage toe te passen
 buiten de professionele sector. De technieken worden ter plaatse ingeoefend.
 
 Privé scholing of per duo is ook mogelijk. Scholing voor professionals in
