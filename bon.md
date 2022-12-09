@@ -20,7 +20,7 @@ key: bon
   <p>Een prachtig en deugddoend geschenk voor ieder van ons.
      Even buiten bereik zijn … om tijd te maken voor jezelf, om uit te blazen.</p>
 
-  <p>Een cadeaubon kost 45€ of 75€ en kan afgehaald worden in mijn praktijk.
+  <p>Een cadeaubon kost 45€, 75€ of 90€ en kan afgehaald worden in mijn praktijk.
      Bel me gerust op <a href="tel:+32 468 45 67 21">0468 45 67 21</a>
      of neem contact op via <a class="whatsapp" href="https://wa.me/{{ site.footer.whatsapp }}">WhatsApp</a>.
   </p>
