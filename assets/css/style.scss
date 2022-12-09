@@ -42,8 +42,9 @@ p.note {
   section.intro img {
     float: left;
     max-width: 45%;
-    padding-bottom:  1em;
-    padding-right: 1em;
+    padding-top: 3em;
+    padding-bottom:  4em;
+    padding-right: 2em;
   }
   section {
     clear: both;
@@ -51,6 +52,9 @@ p.note {
 }
 
 @media screen and (max-width: $on-palm) {
+  section.intro {
+    text-align: center;
+  }
   h1, h2, h3, h4, h5 {
     font-family: serif;
     font-weight: lighter;

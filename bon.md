@@ -14,6 +14,7 @@ key: bon
     padding-top: 2em;
   }
 </style>
+
 <section class="intro">
   <h1>Cadeaubon</h1>
 
@@ -24,8 +25,7 @@ key: bon
      Bel me gerust op <a href="tel:+32 468 45 67 21">0468 45 67 21</a>
      of neem contact op via <a class="whatsapp" href="https://wa.me/{{ site.footer.whatsapp }}">WhatsApp</a>.
   </p>
-
-  <p>Heb je weinig tijd? Dan bestel je vlot hieronder je cadeaubon volledig online.</p>
+</section>
 
   <div class="gift-up-target" data-site-id="ca7b96a0-82f8-49ad-2564-08dad91e6d7d" data-platform="Other" ></div>
   <script type="text/javascript">
@@ -38,5 +38,3 @@ key: bon
       s.parentNode.insertBefore(p, s);
   })(window, document, "script", "https://cdn.giftup.app/dist/gift-up.js", "giftup");
   </script>  
-
-</section>

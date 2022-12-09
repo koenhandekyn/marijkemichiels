@@ -11,6 +11,8 @@ key: marijke
 
 <section class="intro">
 
+  <img src="assets/images/logo_marijke_michiels_transparant.png" width="200px" style="filter: invert(0.8) sepia(100%); margin-left: auto; margin-right: auto"/>
+
   <h1>Relaxatietherapie Marijke Michiels</h1>
 
   <p>Je kan bij mij terecht voor behandelingen als ondersteuning bij
@@ -72,7 +74,7 @@ key: marijke
    of neem contact op via <a class="whatsapp" href="https://wa.me/{{ site.footer.whatsapp }}">WhatsApp</a>.
 </p>
 
-<p>Heb je weinig tijd? Dan bestel je vlot je cadeaubon volledig <a href="bon">online</a>.</p>
+<p>Heb je weinig tijd? Dan <a href="bon">bestel</a> je vlot je cadeaubon volledig <a href="bon">online</a>.</p>
 
 </section>
 
