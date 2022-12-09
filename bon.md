@@ -27,7 +27,7 @@ key: bon
 
   <p>Heb je weinig tijd? Dan bestel je vlot hieronder je cadeaubon volledig online.</p>
 
-  <div class="gift-up-target" data-site-id="89432a38-063f-4363-9256-08daa082b92b" data-platform="Other" ></div>
+  <div class="gift-up-target" data-site-id="ca7b96a0-82f8-49ad-2564-08dad91e6d7d" data-platform="Other" ></div>
   <script type="text/javascript">
   (function (g, i, f, t, u, p, s) {
       g[u] = g[u] || function() { (g[u].q = g[u].q || []).push(arguments) };
@@ -37,6 +37,6 @@ key: bon
       s = i.getElementsByTagName(f)[0];
       s.parentNode.insertBefore(p, s);
   })(window, document, "script", "https://cdn.giftup.app/dist/gift-up.js", "giftup");
-  </script>
+  </script>  
 
 </section>
