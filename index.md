@@ -30,17 +30,17 @@ key: marijke
 
 <table>
   <tr>
-    <td>Relaxerende rugmassage *</td>
+    <td>Relaxerende rugmassage</td>
     <td class="align-left">30min</td>
     <td class="align-right">45€</td>
   </tr>
   <tr>
-    <td>Anti-stress Nek-Schouders-Hoofd *</td>
+    <td>Anti-stress Nek-Schouders-Hoofd</td>
     <td class="align-left">30min</td>
     <td class="align-right">45€</td>
   </tr>
   <tr>
-    <td>Progresssieve relaxatie en ademhaling *</td>
+    <td>Progressieve relaxatie en ademhaling</td>
     <td class="align-left">30min</td>
     <td class="align-right">45€</td>
   </tr>
@@ -57,9 +57,7 @@ key: marijke
 </table>
 
 <p class="note">
-  * Op voorschrift 'relaxathietherapie' van je arts heeft u recht
-  op 18 kiné-behandelingen. Een gedeeltelijke terugbetaling via het ziekenfonds
-  is dan mogelijk!
+  Zin om samen met je geliefde, vriend(in) of wie je aan het hart ligt, samen een duo-massage te boeken ? Dit kan op maandag- en vrijdagnamiddag. Reserveer tijdig !
 </p>
 </section>
 
