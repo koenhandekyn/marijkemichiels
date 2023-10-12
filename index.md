@@ -99,7 +99,7 @@ key: marijke
   relaxatie en zintuigelijk waarneming, zowel theoretisch als praktisch aanpakken.
 </p>
 
-<p>Deze worden enkel georganizeerd op aanvraag.</p>
+<p>Deze worden enkel georganiseerd op aanvraag.</p>
 
 <!--
 <p>Het stress-release traject bestaat uit 1 <a href="workshops#basis">basis opleiding</a>

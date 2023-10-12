@@ -35,7 +35,7 @@ permalink: /workshops/
 
 <a name="workshops"></a>
 
-Worden georganizeerd op aanvraag.
+Worden georganiseerd op aanvraag.
 
 #### Massagetechnieken Nek, Schouders Hoofd
 
