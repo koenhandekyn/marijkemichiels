@@ -9,6 +9,13 @@ layout: page
 key: marijke
 ---
 
+<script>
+  var host = "marijkemichiels.be";
+  if ((host == window.location.host) && (window.location.protocol != "https:"))
+      window.location.protocol = "https";
+</script>
+
+
 <section class="intro">
 
   <img src="assets/images/logo_marijke_michiels_transparant.png" width="200px" style="filter: invert(0.8) sepia(100%); margin-left: auto; margin-right: auto"/>
