@@ -50,14 +50,14 @@ key: marijke
     <td class="align-right">75€</td>
   </tr>
   <tr>
-    <td>Lichaamsmassage Aromatherapie</td>
+    <td>Relaxerende lichaamsmassage Hotstone</td>
     <td class="align-left">1u</td>
-    <td class="align-right">85€</td>
+    <td class="align-right">90€</td>
   </tr>
   <tr>
-    <td></td>
-    <td class="align-left">1u30</td>
-    <td class="align-right">115€</td>
+    <td>Lichaamsmassage Aromatherapie</td>
+    <td class="align-left">1u/1u30</td>
+    <td class="align-right">85€/115€</td>
   </tr>
 </table>
 
@@ -131,4 +131,3 @@ key: marijke
 </table>
  -->
 </section>
-
