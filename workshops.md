@@ -35,9 +35,7 @@ permalink: /workshops/
 
 <a name="workshops"></a>
 
-De workshops gaan door op maandag- en/of donderdagavond vanaf 18u30, steeds
-met maximaal 4 personen. We adviseren om de basis opleiding "Stress Begrijpen"
-te volgen voor je de workshops start.
+Worden georganizeerd op aanvraag.
 
 #### Massagetechnieken Nek, Schouders Hoofd
 

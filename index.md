@@ -50,9 +50,14 @@ key: marijke
     <td class="align-right">75€</td>
   </tr>
   <tr>
-    <td>Relaxerende Lichaamsmassage Hotstone</td>
+    <td>Lichaamsmassage Aromatherapie</td>
     <td class="align-left">1u</td>
-    <td class="align-right">90€</td>
+    <td class="align-right">85€</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td class="align-left">1u30</td>
+    <td class="align-right">115€</td>
   </tr>
 </table>
 
@@ -67,12 +72,21 @@ key: marijke
 <p>Een prachtig en deugddoend geschenk voor ieder van ons.
    Even buiten bereik zijn … om tijd te maken voor jezelf.</p>
 
-<p>Een cadeaubon kost 45€, 75€ of 90€ en kan afgehaald worden in mijn praktijk.
+<p>Een cadeaubon kan afgehaald worden in mijn praktijk of opgestuurd worden.
    Bel me gerust op <a href="tel:+32 468 45 67 21">0468 45 67 21</a>
    of neem contact op via <a class="whatsapp" href="https://wa.me/{{ site.footer.whatsapp }}">WhatsApp</a>.
 </p>
 
-<p>Heb je weinig tijd? Dan <a href="bon">bestel</a> je vlot je cadeaubon volledig <a href="bon">online</a>.</p>
+<section class="wellnessarrangement">
+<h1>Wellnessarrangement in Zottegem 2p.</h1>
+
+<p>Ontsnap aan de dagelijkse sleur en trakteer jezelf op een verkwikkend wellnessweekend in het hart van Zottegem, de poort naar de Vlaamse Ardennen. </p>
+<hr>
+<p><strong>Wat?</strong><br>Een exclusief wellnessarrangement voor twee personen.</p>
+<p><strong>Wanneer?</strong><br>Van vrijdag 16u tot zondag 15u.</p>
+<p><strong>Locatie?</strong><br>Gelegen in Zottegem, een ideale startplaats voor wandel- en fietstochten in de schilderachtige Vlaamse Ardennen.</p>
+
+<p><a href="arrangement">Meer info</a></p>
 
 </section>
 
@@ -84,6 +98,8 @@ key: marijke
   leren begrijpen en vervolgens massage, ademhaling en stretching,
   relaxatie en zintuigelijk waarneming, zowel theoretisch als praktisch aanpakken.
 </p>
+
+<p>Deze worden enkel georganizeerd op aanvraag.</p>
 
 <!--
 <p>Het stress-release traject bestaat uit 1 <a href="workshops#basis">basis opleiding</a>
