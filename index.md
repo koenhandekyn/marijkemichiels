@@ -23,8 +23,8 @@ key: marijke
   <h1>Relaxatietherapie Marijke Michiels</h1>
 
   <p>Je kan bij mij terecht voor behandelingen als ondersteuning bij
-     algemene vermoeidhied, spierspanningen, hoofd- en aangezichtspijnen,
-     hyperventilatie of burn-out.</p>
+     Algemene Vermoeidheid, Spierspanningen, Hoofd- en Aangezichtspijnen,
+     Hyperventilatie of Burn-Out.</p>
 
   <p>
     Ik organiseer ook <a href="/workshops/">workshops</a> <a href="/workshops/">'omgaan met stress'</a>.
